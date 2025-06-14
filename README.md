@@ -37,7 +37,9 @@ This project is a simple and efficient face detection system built using **Pytho
 ### Installation
 
 git clone https://github.com/Augustya19/Face-Detection.git
+
 cd Face-Detection
+
 pip install opencv-python
 
 ### Run with Image
